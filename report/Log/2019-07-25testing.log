@@ -1,0 +1,491 @@
+Thu, 25 Jul 2019 13:12:33-test_case.models.RecordLog-testreport.py-[line:25]-INFO-[日志信息]: successed to generate test report [D:\Users\F9535\PycharmProjects\supply\report\TestReport\report2019-07-25  13_12_33.html]
+Thu, 25 Jul 2019 13:14:40-test_case.models.RecordLog-testreport.py-[line:25]-INFO-[日志信息]: successed to generate test report [D:\Users\F9535\PycharmProjects\supply\report\TestReport\report2019-07-25  13_14_40.html]
+Thu, 25 Jul 2019 13:16:21-test_case.models.RecordLog-testreport.py-[line:25]-INFO-[日志信息]: successed to generate test report [D:\Users\F9535\PycharmProjects\supply\report\TestReport\report2019-07-25  13_16_21.html]
+Thu, 25 Jul 2019 13:16:36-test_case.models.RecordLog-testreport.py-[line:25]-INFO-[日志信息]: successed to generate test report [D:\Users\F9535\PycharmProjects\supply\report\TestReport\report2019-07-25  13_16_36.html]
+Thu, 25 Jul 2019 14:06:37-test_case.models.RecordLog-driver.py-[line:23]-INFO-[日志信息]: found the webdriver driver successed
+Thu, 25 Jul 2019 14:06:41-test_case.models.RecordLog-myunit.py-[line:13]-INFO-[日志信息]: opened the browser successed!
+Thu, 25 Jul 2019 14:07:00-test_case.models.RecordLog-myunit.py-[line:35]-INFO-[日志信息]: quit the browser success!
+Thu, 25 Jul 2019 14:11:13-test_case.models.RecordLog-driver.py-[line:23]-INFO-[日志信息]: found the webdriver driver successed
+Thu, 25 Jul 2019 14:11:17-test_case.models.RecordLog-myunit.py-[line:13]-INFO-[日志信息]: opened the browser successed!
+Thu, 25 Jul 2019 14:11:37-test_case.models.RecordLog-base.py-[line:26]-INFO-[日志信息]: http://supplytest.fandow.com loading successed!
+Thu, 25 Jul 2019 14:11:37-test_case.models.RecordLog-myunit.py-[line:23]-INFO-[日志信息]: ************************starting run test cases************************
+Thu, 25 Jul 2019 14:11:38-test_case.models.RecordLog-base.py-[line:108]-INFO-[日志信息]: inputValue:[<selenium.webdriver.remote.webelement.WebElement (session="3a8d4ab3913dca214660c2b070c858b2", element="0.03782675934509094-1")>] is receiveing value [fd-0001]
+Thu, 25 Jul 2019 14:11:38-test_case.models.RecordLog-base.py-[line:108]-INFO-[日志信息]: inputValue:[<selenium.webdriver.remote.webelement.WebElement (session="3a8d4ab3913dca214660c2b070c858b2", element="0.03782675934509094-2")>] is receiveing value [123455]
+Thu, 25 Jul 2019 14:11:38-test_case.models.RecordLog-login_page.py-[line:31]-INFO-[日志信息]: loginning...
+Thu, 25 Jul 2019 14:11:38-test_case.models.RecordLog-login_page.py-[line:50]-INFO-[日志信息]: login fail
+Thu, 25 Jul 2019 14:11:39-test_case.models.RecordLog-myunit.py-[line:31]-INFO-[日志信息]: ************************test case run completed************************
+Thu, 25 Jul 2019 14:11:39-test_case.models.RecordLog-base.py-[line:26]-INFO-[日志信息]: http://supplytest.fandow.com loading successed!
+Thu, 25 Jul 2019 14:11:39-test_case.models.RecordLog-myunit.py-[line:23]-INFO-[日志信息]: ************************starting run test cases************************
+Thu, 25 Jul 2019 14:11:39-test_case.models.RecordLog-base.py-[line:108]-INFO-[日志信息]: inputValue:[<selenium.webdriver.remote.webelement.WebElement (session="3a8d4ab3913dca214660c2b070c858b2", element="0.6905655937834185-1")>] is receiveing value [fd-0001]
+Thu, 25 Jul 2019 14:11:40-test_case.models.RecordLog-base.py-[line:108]-INFO-[日志信息]: inputValue:[<selenium.webdriver.remote.webelement.WebElement (session="3a8d4ab3913dca214660c2b070c858b2", element="0.6905655937834185-2")>] is receiveing value [123456]
+Thu, 25 Jul 2019 14:11:40-test_case.models.RecordLog-login_page.py-[line:31]-INFO-[日志信息]: loginning...
+Thu, 25 Jul 2019 14:11:40-test_case.models.RecordLog-base.py-[line:190]-INFO-[日志信息]: the file [correct_username_password_fail.png]  save screenshot successed under [D:\Users\F9535\PycharmProjects\supply\report\image\fail]
+Thu, 25 Jul 2019 14:11:41-test_case.models.RecordLog-myunit.py-[line:31]-INFO-[日志信息]: ************************test case run completed************************
+Thu, 25 Jul 2019 14:11:41-test_case.models.RecordLog-base.py-[line:26]-INFO-[日志信息]: http://supplytest.fandow.com loading successed!
+Thu, 25 Jul 2019 14:11:41-test_case.models.RecordLog-myunit.py-[line:23]-INFO-[日志信息]: ************************starting run test cases************************
+Thu, 25 Jul 2019 14:11:41-test_case.models.RecordLog-base.py-[line:108]-INFO-[日志信息]: inputValue:[<selenium.webdriver.remote.webelement.WebElement (session="3a8d4ab3913dca214660c2b070c858b2", element="0.5232045237464464-1")>] is receiveing value [12345]
+Thu, 25 Jul 2019 14:11:41-test_case.models.RecordLog-base.py-[line:108]-INFO-[日志信息]: inputValue:[<selenium.webdriver.remote.webelement.WebElement (session="3a8d4ab3913dca214660c2b070c858b2", element="0.5232045237464464-2")>] is receiveing value [123456]
+Thu, 25 Jul 2019 14:11:41-test_case.models.RecordLog-login_page.py-[line:31]-INFO-[日志信息]: loginning...
+Thu, 25 Jul 2019 14:11:42-test_case.models.RecordLog-login_page.py-[line:50]-INFO-[日志信息]: login fail
+Thu, 25 Jul 2019 14:11:42-test_case.models.RecordLog-myunit.py-[line:31]-INFO-[日志信息]: ************************test case run completed************************
+Thu, 25 Jul 2019 14:11:44-test_case.models.RecordLog-myunit.py-[line:35]-INFO-[日志信息]: quit the browser success!
+Thu, 25 Jul 2019 14:18:56-test_case.models.RecordLog-driver.py-[line:23]-INFO-[日志信息]: found the webdriver driver successed
+Thu, 25 Jul 2019 14:19:00-test_case.models.RecordLog-myunit.py-[line:13]-INFO-[日志信息]: opened the browser successed!
+Thu, 25 Jul 2019 14:19:16-test_case.models.RecordLog-base.py-[line:26]-INFO-[日志信息]: http://supplytest.fandow.com loading successed!
+Thu, 25 Jul 2019 14:19:16-test_case.models.RecordLog-myunit.py-[line:23]-INFO-[日志信息]: ************************starting run test cases************************
+Thu, 25 Jul 2019 14:19:16-test_case.models.RecordLog-base.py-[line:108]-INFO-[日志信息]: inputValue:[<selenium.webdriver.remote.webelement.WebElement (session="7647cf072f5ec1e9154d826c4010a570", element="0.7575631619860748-1")>] is receiveing value [fd-0001]
+Thu, 25 Jul 2019 14:19:16-test_case.models.RecordLog-base.py-[line:108]-INFO-[日志信息]: inputValue:[<selenium.webdriver.remote.webelement.WebElement (session="7647cf072f5ec1e9154d826c4010a570", element="0.7575631619860748-2")>] is receiveing value [123455]
+Thu, 25 Jul 2019 14:19:16-test_case.models.RecordLog-login_page.py-[line:31]-INFO-[日志信息]: loginning...
+Thu, 25 Jul 2019 14:19:17-test_case.models.RecordLog-login_page.py-[line:50]-INFO-[日志信息]: login fail
+Thu, 25 Jul 2019 14:19:17-test_case.models.RecordLog-myunit.py-[line:31]-INFO-[日志信息]: ************************test case run completed************************
+Thu, 25 Jul 2019 14:19:18-test_case.models.RecordLog-base.py-[line:26]-INFO-[日志信息]: http://supplytest.fandow.com loading successed!
+Thu, 25 Jul 2019 14:19:18-test_case.models.RecordLog-myunit.py-[line:23]-INFO-[日志信息]: ************************starting run test cases************************
+Thu, 25 Jul 2019 14:19:18-test_case.models.RecordLog-base.py-[line:108]-INFO-[日志信息]: inputValue:[<selenium.webdriver.remote.webelement.WebElement (session="7647cf072f5ec1e9154d826c4010a570", element="0.013696732547526125-1")>] is receiveing value [fd-0001]
+Thu, 25 Jul 2019 14:19:18-test_case.models.RecordLog-base.py-[line:108]-INFO-[日志信息]: inputValue:[<selenium.webdriver.remote.webelement.WebElement (session="7647cf072f5ec1e9154d826c4010a570", element="0.013696732547526125-2")>] is receiveing value [123456]
+Thu, 25 Jul 2019 14:19:18-test_case.models.RecordLog-login_page.py-[line:31]-INFO-[日志信息]: loginning...
+Thu, 25 Jul 2019 14:19:19-test_case.models.RecordLog-base.py-[line:190]-INFO-[日志信息]: the file [correct_username_password_fail.png]  save screenshot successed under [D:\Users\F9535\PycharmProjects\supply\report\image\fail]
+Thu, 25 Jul 2019 14:19:19-test_case.models.RecordLog-myunit.py-[line:31]-INFO-[日志信息]: ************************test case run completed************************
+Thu, 25 Jul 2019 14:19:19-test_case.models.RecordLog-base.py-[line:26]-INFO-[日志信息]: http://supplytest.fandow.com loading successed!
+Thu, 25 Jul 2019 14:19:19-test_case.models.RecordLog-myunit.py-[line:23]-INFO-[日志信息]: ************************starting run test cases************************
+Thu, 25 Jul 2019 14:19:19-test_case.models.RecordLog-base.py-[line:108]-INFO-[日志信息]: inputValue:[<selenium.webdriver.remote.webelement.WebElement (session="7647cf072f5ec1e9154d826c4010a570", element="0.7319686700972381-1")>] is receiveing value [12345]
+Thu, 25 Jul 2019 14:19:19-test_case.models.RecordLog-base.py-[line:108]-INFO-[日志信息]: inputValue:[<selenium.webdriver.remote.webelement.WebElement (session="7647cf072f5ec1e9154d826c4010a570", element="0.7319686700972381-2")>] is receiveing value [123456]
+Thu, 25 Jul 2019 14:19:20-test_case.models.RecordLog-login_page.py-[line:31]-INFO-[日志信息]: loginning...
+Thu, 25 Jul 2019 14:19:20-test_case.models.RecordLog-login_page.py-[line:50]-INFO-[日志信息]: login fail
+Thu, 25 Jul 2019 14:19:20-test_case.models.RecordLog-myunit.py-[line:31]-INFO-[日志信息]: ************************test case run completed************************
+Thu, 25 Jul 2019 14:19:22-test_case.models.RecordLog-myunit.py-[line:35]-INFO-[日志信息]: quit the browser success!
+Thu, 25 Jul 2019 14:23:53-test_case.models.RecordLog-driver.py-[line:23]-INFO-[日志信息]: found the webdriver driver successed
+Thu, 25 Jul 2019 14:23:57-test_case.models.RecordLog-myunit.py-[line:13]-INFO-[日志信息]: opened the browser successed!
+Thu, 25 Jul 2019 14:24:15-test_case.models.RecordLog-base.py-[line:26]-INFO-[日志信息]: http://supplytest.fandow.com loading successed!
+Thu, 25 Jul 2019 14:24:15-test_case.models.RecordLog-myunit.py-[line:23]-INFO-[日志信息]: ************************starting run test cases************************
+Thu, 25 Jul 2019 14:24:15-test_case.models.RecordLog-base.py-[line:108]-INFO-[日志信息]: inputValue:[<selenium.webdriver.remote.webelement.WebElement (session="360a8d54d3660f66a68e6ff94046492d", element="0.17969225076996365-1")>] is receiveing value [fd-0001]
+Thu, 25 Jul 2019 14:24:15-test_case.models.RecordLog-base.py-[line:108]-INFO-[日志信息]: inputValue:[<selenium.webdriver.remote.webelement.WebElement (session="360a8d54d3660f66a68e6ff94046492d", element="0.17969225076996365-2")>] is receiveing value [123455]
+Thu, 25 Jul 2019 14:24:15-test_case.models.RecordLog-login_page.py-[line:31]-INFO-[日志信息]: loginning...
+Thu, 25 Jul 2019 14:24:16-test_case.models.RecordLog-login_page.py-[line:50]-INFO-[日志信息]: login fail
+Thu, 25 Jul 2019 14:24:16-test_case.models.RecordLog-myunit.py-[line:31]-INFO-[日志信息]: ************************test case run completed************************
+Thu, 25 Jul 2019 14:24:16-test_case.models.RecordLog-base.py-[line:26]-INFO-[日志信息]: http://supplytest.fandow.com loading successed!
+Thu, 25 Jul 2019 14:24:16-test_case.models.RecordLog-myunit.py-[line:23]-INFO-[日志信息]: ************************starting run test cases************************
+Thu, 25 Jul 2019 14:24:17-test_case.models.RecordLog-base.py-[line:108]-INFO-[日志信息]: inputValue:[<selenium.webdriver.remote.webelement.WebElement (session="360a8d54d3660f66a68e6ff94046492d", element="0.4319927031721076-1")>] is receiveing value [fd-0001]
+Thu, 25 Jul 2019 14:24:17-test_case.models.RecordLog-base.py-[line:108]-INFO-[日志信息]: inputValue:[<selenium.webdriver.remote.webelement.WebElement (session="360a8d54d3660f66a68e6ff94046492d", element="0.4319927031721076-2")>] is receiveing value [123456]
+Thu, 25 Jul 2019 14:24:17-test_case.models.RecordLog-login_page.py-[line:31]-INFO-[日志信息]: loginning...
+Thu, 25 Jul 2019 14:24:19-test_case.models.RecordLog-base.py-[line:190]-INFO-[日志信息]: the file [correct_username_password_fail.png]  save screenshot successed under [D:\Users\F9535\PycharmProjects\supply\report\image\fail]
+Thu, 25 Jul 2019 14:24:20-test_case.models.RecordLog-myunit.py-[line:31]-INFO-[日志信息]: ************************test case run completed************************
+Thu, 25 Jul 2019 14:24:20-test_case.models.RecordLog-base.py-[line:26]-INFO-[日志信息]: http://supplytest.fandow.com loading successed!
+Thu, 25 Jul 2019 14:24:20-test_case.models.RecordLog-myunit.py-[line:23]-INFO-[日志信息]: ************************starting run test cases************************
+Thu, 25 Jul 2019 14:24:52-test_case.models.RecordLog-base.py-[line:37]-INFO-[日志信息]: finding element timeout!, details
+Thu, 25 Jul 2019 14:25:14-test_case.models.RecordLog-base.py-[line:37]-INFO-[日志信息]: finding element timeout!, details
+Thu, 25 Jul 2019 14:25:14-test_case.models.RecordLog-base.py-[line:105]-INFO-[日志信息]: typing value error!
+Thu, 25 Jul 2019 14:25:16-test_case.models.RecordLog-myunit.py-[line:35]-INFO-[日志信息]: quit the browser success!
+Thu, 25 Jul 2019 14:27:31-test_case.models.RecordLog-driver.py-[line:23]-INFO-[日志信息]: found the webdriver driver successed
+Thu, 25 Jul 2019 14:27:35-test_case.models.RecordLog-myunit.py-[line:13]-INFO-[日志信息]: opened the browser successed!
+Thu, 25 Jul 2019 14:27:53-test_case.models.RecordLog-base.py-[line:26]-INFO-[日志信息]: http://supplytest.fandow.com loading successed!
+Thu, 25 Jul 2019 14:27:53-test_case.models.RecordLog-myunit.py-[line:23]-INFO-[日志信息]: ************************starting run test cases************************
+Thu, 25 Jul 2019 14:27:53-test_case.models.RecordLog-base.py-[line:108]-INFO-[日志信息]: inputValue:[<selenium.webdriver.remote.webelement.WebElement (session="a992df7647be47e0276244062007297d", element="0.42188417373917586-1")>] is receiveing value [fd-0001]
+Thu, 25 Jul 2019 14:27:53-test_case.models.RecordLog-base.py-[line:108]-INFO-[日志信息]: inputValue:[<selenium.webdriver.remote.webelement.WebElement (session="a992df7647be47e0276244062007297d", element="0.42188417373917586-2")>] is receiveing value [123456]
+Thu, 25 Jul 2019 14:27:53-test_case.models.RecordLog-login_page.py-[line:31]-INFO-[日志信息]: loginning...
+Thu, 25 Jul 2019 14:27:56-test_case.models.RecordLog-base.py-[line:190]-INFO-[日志信息]: the file [correct_username_password_fail.png]  save screenshot successed under [D:\Users\F9535\PycharmProjects\supply\report\image\fail]
+Thu, 25 Jul 2019 14:27:56-test_case.models.RecordLog-myunit.py-[line:31]-INFO-[日志信息]: ************************test case run completed************************
+Thu, 25 Jul 2019 14:27:58-test_case.models.RecordLog-myunit.py-[line:35]-INFO-[日志信息]: quit the browser success!
+Thu, 25 Jul 2019 14:30:51-test_case.models.RecordLog-driver.py-[line:23]-INFO-[日志信息]: found the webdriver driver successed
+Thu, 25 Jul 2019 14:30:56-test_case.models.RecordLog-myunit.py-[line:13]-INFO-[日志信息]: opened the browser successed!
+Thu, 25 Jul 2019 14:31:12-test_case.models.RecordLog-base.py-[line:26]-INFO-[日志信息]: http://supplytest.fandow.com loading successed!
+Thu, 25 Jul 2019 14:31:12-test_case.models.RecordLog-myunit.py-[line:23]-INFO-[日志信息]: ************************starting run test cases************************
+Thu, 25 Jul 2019 14:31:13-test_case.models.RecordLog-base.py-[line:108]-INFO-[日志信息]: inputValue:[<selenium.webdriver.remote.webelement.WebElement (session="228fb651c18c3f3330e3041bffb801c8", element="0.9196702631681084-1")>] is receiveing value [fd-0001]
+Thu, 25 Jul 2019 14:31:13-test_case.models.RecordLog-base.py-[line:108]-INFO-[日志信息]: inputValue:[<selenium.webdriver.remote.webelement.WebElement (session="228fb651c18c3f3330e3041bffb801c8", element="0.9196702631681084-2")>] is receiveing value [123456]
+Thu, 25 Jul 2019 14:31:13-test_case.models.RecordLog-login_page.py-[line:31]-INFO-[日志信息]: loginning...
+Thu, 25 Jul 2019 14:31:16-test_case.models.RecordLog-myunit.py-[line:31]-INFO-[日志信息]: ************************test case run completed************************
+Thu, 25 Jul 2019 14:31:18-test_case.models.RecordLog-myunit.py-[line:35]-INFO-[日志信息]: quit the browser success!
+Thu, 25 Jul 2019 14:35:12-test_case.models.RecordLog-driver.py-[line:23]-INFO-[日志信息]: found the webdriver driver successed
+Thu, 25 Jul 2019 14:35:16-test_case.models.RecordLog-myunit.py-[line:13]-INFO-[日志信息]: opened the browser successed!
+Thu, 25 Jul 2019 14:35:34-test_case.models.RecordLog-base.py-[line:26]-INFO-[日志信息]: http://supplytest.fandow.com loading successed!
+Thu, 25 Jul 2019 14:35:34-test_case.models.RecordLog-myunit.py-[line:23]-INFO-[日志信息]: ************************starting run test cases************************
+Thu, 25 Jul 2019 14:35:35-test_case.models.RecordLog-base.py-[line:108]-INFO-[日志信息]: inputValue:[<selenium.webdriver.remote.webelement.WebElement (session="5dd85df84479e4b5fb5c8d940f23a6b3", element="0.521969154459383-1")>] is receiveing value [fd-0001]
+Thu, 25 Jul 2019 14:35:35-test_case.models.RecordLog-base.py-[line:108]-INFO-[日志信息]: inputValue:[<selenium.webdriver.remote.webelement.WebElement (session="5dd85df84479e4b5fb5c8d940f23a6b3", element="0.521969154459383-2")>] is receiveing value [123456]
+Thu, 25 Jul 2019 14:35:35-test_case.models.RecordLog-login_page.py-[line:31]-INFO-[日志信息]: loginning...
+Thu, 25 Jul 2019 14:35:37-test_case.models.RecordLog-base.py-[line:195]-INFO-[日志信息]: save screenshot failed
+Thu, 25 Jul 2019 14:35:37-test_case.models.RecordLog-LoginTc.py-[line:22]-INFO-[日志信息]: run completed! please check the test report
+Thu, 25 Jul 2019 14:35:38-test_case.models.RecordLog-myunit.py-[line:31]-INFO-[日志信息]: ************************test case run completed************************
+Thu, 25 Jul 2019 14:35:40-test_case.models.RecordLog-myunit.py-[line:35]-INFO-[日志信息]: quit the browser success!
+Thu, 25 Jul 2019 14:37:33-test_case.models.RecordLog-driver.py-[line:23]-INFO-[日志信息]: found the webdriver driver successed
+Thu, 25 Jul 2019 14:37:37-test_case.models.RecordLog-myunit.py-[line:13]-INFO-[日志信息]: opened the browser successed!
+Thu, 25 Jul 2019 14:37:55-test_case.models.RecordLog-base.py-[line:26]-INFO-[日志信息]: http://supplytest.fandow.com loading successed!
+Thu, 25 Jul 2019 14:37:55-test_case.models.RecordLog-myunit.py-[line:23]-INFO-[日志信息]: ************************starting run test cases************************
+Thu, 25 Jul 2019 14:37:55-test_case.models.RecordLog-base.py-[line:108]-INFO-[日志信息]: inputValue:[<selenium.webdriver.remote.webelement.WebElement (session="07dbe48519f2e7442a4a7b0f0c3ecca9", element="0.6694067762538085-1")>] is receiveing value [12345]
+Thu, 25 Jul 2019 14:37:55-test_case.models.RecordLog-base.py-[line:108]-INFO-[日志信息]: inputValue:[<selenium.webdriver.remote.webelement.WebElement (session="07dbe48519f2e7442a4a7b0f0c3ecca9", element="0.6694067762538085-2")>] is receiveing value [123456]
+Thu, 25 Jul 2019 14:37:55-test_case.models.RecordLog-login_page.py-[line:31]-INFO-[日志信息]: loginning...
+Thu, 25 Jul 2019 14:37:56-test_case.models.RecordLog-login_page.py-[line:50]-INFO-[日志信息]: login fail
+Thu, 25 Jul 2019 14:37:56-test_case.models.RecordLog-myunit.py-[line:31]-INFO-[日志信息]: ************************test case run completed************************
+Thu, 25 Jul 2019 14:37:58-test_case.models.RecordLog-myunit.py-[line:35]-INFO-[日志信息]: quit the browser success!
+Thu, 25 Jul 2019 14:40:57-test_case.models.RecordLog-driver.py-[line:23]-INFO-[日志信息]: found the webdriver driver successed
+Thu, 25 Jul 2019 14:41:01-test_case.models.RecordLog-myunit.py-[line:13]-INFO-[日志信息]: opened the browser successed!
+Thu, 25 Jul 2019 14:41:18-test_case.models.RecordLog-base.py-[line:26]-INFO-[日志信息]: http://supplytest.fandow.com loading successed!
+Thu, 25 Jul 2019 14:41:18-test_case.models.RecordLog-myunit.py-[line:23]-INFO-[日志信息]: ************************starting run test cases************************
+Thu, 25 Jul 2019 14:41:18-test_case.models.RecordLog-base.py-[line:108]-INFO-[日志信息]: inputValue:[<selenium.webdriver.remote.webelement.WebElement (session="0e688c44c43dfbf27781e2f228131ace", element="0.27640810755735834-1")>] is receiveing value [12345]
+Thu, 25 Jul 2019 14:41:18-test_case.models.RecordLog-base.py-[line:108]-INFO-[日志信息]: inputValue:[<selenium.webdriver.remote.webelement.WebElement (session="0e688c44c43dfbf27781e2f228131ace", element="0.27640810755735834-2")>] is receiveing value [123456]
+Thu, 25 Jul 2019 14:41:18-test_case.models.RecordLog-login_page.py-[line:31]-INFO-[日志信息]: loginning...
+Thu, 25 Jul 2019 14:41:21-test_case.models.RecordLog-login_page.py-[line:50]-INFO-[日志信息]: login fail
+Thu, 25 Jul 2019 14:41:21-test_case.models.RecordLog-myunit.py-[line:31]-INFO-[日志信息]: ************************test case run completed************************
+Thu, 25 Jul 2019 14:41:23-test_case.models.RecordLog-myunit.py-[line:35]-INFO-[日志信息]: quit the browser success!
+Thu, 25 Jul 2019 14:50:07-test_case.models.RecordLog-driver.py-[line:23]-INFO-[日志信息]: found the webdriver driver successed
+Thu, 25 Jul 2019 14:50:11-test_case.models.RecordLog-myunit.py-[line:13]-INFO-[日志信息]: opened the browser successed!
+Thu, 25 Jul 2019 14:50:27-test_case.models.RecordLog-base.py-[line:26]-INFO-[日志信息]: http://supplytest.fandow.com loading successed!
+Thu, 25 Jul 2019 14:50:27-test_case.models.RecordLog-myunit.py-[line:23]-INFO-[日志信息]: ************************starting run test cases************************
+Thu, 25 Jul 2019 14:50:27-test_case.models.RecordLog-base.py-[line:108]-INFO-[日志信息]: inputValue:[<selenium.webdriver.remote.webelement.WebElement (session="0f9023fde6e25e163051e5558bbc0d67", element="0.04747777667095421-1")>] is receiveing value [12345]
+Thu, 25 Jul 2019 14:50:27-test_case.models.RecordLog-base.py-[line:108]-INFO-[日志信息]: inputValue:[<selenium.webdriver.remote.webelement.WebElement (session="0f9023fde6e25e163051e5558bbc0d67", element="0.04747777667095421-2")>] is receiveing value [123456]
+Thu, 25 Jul 2019 14:50:27-test_case.models.RecordLog-login_page.py-[line:31]-INFO-[日志信息]: loginning...
+Thu, 25 Jul 2019 14:51:01-test_case.models.RecordLog-base.py-[line:37]-INFO-[日志信息]: finding element timeout!, details
+Thu, 25 Jul 2019 14:51:01-test_case.models.RecordLog-myunit.py-[line:31]-INFO-[日志信息]: ************************test case run completed************************
+Thu, 25 Jul 2019 14:51:04-test_case.models.RecordLog-myunit.py-[line:35]-INFO-[日志信息]: quit the browser success!
+Thu, 25 Jul 2019 15:12:28-test_case.models.RecordLog-driver.py-[line:23]-INFO-[日志信息]: found the webdriver driver successed
+Thu, 25 Jul 2019 15:12:32-test_case.models.RecordLog-myunit.py-[line:13]-INFO-[日志信息]: opened the browser successed!
+Thu, 25 Jul 2019 15:12:46-test_case.models.RecordLog-base.py-[line:26]-INFO-[日志信息]: http://supplytest.fandow.com loading successed!
+Thu, 25 Jul 2019 15:12:46-test_case.models.RecordLog-myunit.py-[line:23]-INFO-[日志信息]: ************************starting run test cases************************
+Thu, 25 Jul 2019 15:12:47-test_case.models.RecordLog-base.py-[line:108]-INFO-[日志信息]: inputValue:[<selenium.webdriver.remote.webelement.WebElement (session="9996226c5ace603321acfec9cab53f45", element="0.4911613042406242-1")>] is receiveing value [12345]
+Thu, 25 Jul 2019 15:12:47-test_case.models.RecordLog-base.py-[line:108]-INFO-[日志信息]: inputValue:[<selenium.webdriver.remote.webelement.WebElement (session="9996226c5ace603321acfec9cab53f45", element="0.4911613042406242-2")>] is receiveing value [123456]
+Thu, 25 Jul 2019 15:12:47-test_case.models.RecordLog-login_page.py-[line:31]-INFO-[日志信息]: loginning...
+Thu, 25 Jul 2019 15:12:49-test_case.models.RecordLog-login_page.py-[line:50]-INFO-[日志信息]: login fail
+Thu, 25 Jul 2019 15:12:49-test_case.models.RecordLog-LoginTc.py-[line:31]-INFO-[日志信息]: run completed! please check the test report
+Thu, 25 Jul 2019 15:12:49-test_case.models.RecordLog-myunit.py-[line:31]-INFO-[日志信息]: ************************test case run completed************************
+Thu, 25 Jul 2019 15:12:52-test_case.models.RecordLog-myunit.py-[line:35]-INFO-[日志信息]: quit the browser success!
+Thu, 25 Jul 2019 15:13:24-test_case.models.RecordLog-driver.py-[line:23]-INFO-[日志信息]: found the webdriver driver successed
+Thu, 25 Jul 2019 15:13:29-test_case.models.RecordLog-myunit.py-[line:13]-INFO-[日志信息]: opened the browser successed!
+Thu, 25 Jul 2019 15:13:46-test_case.models.RecordLog-base.py-[line:26]-INFO-[日志信息]: http://supplytest.fandow.com loading successed!
+Thu, 25 Jul 2019 15:13:46-test_case.models.RecordLog-myunit.py-[line:23]-INFO-[日志信息]: ************************starting run test cases************************
+Thu, 25 Jul 2019 15:13:46-test_case.models.RecordLog-base.py-[line:108]-INFO-[日志信息]: inputValue:[<selenium.webdriver.remote.webelement.WebElement (session="66a4fe8e1bc0453866a517997a64fbb1", element="0.6090259187695355-1")>] is receiveing value [fd-0001]
+Thu, 25 Jul 2019 15:13:46-test_case.models.RecordLog-base.py-[line:108]-INFO-[日志信息]: inputValue:[<selenium.webdriver.remote.webelement.WebElement (session="66a4fe8e1bc0453866a517997a64fbb1", element="0.6090259187695355-2")>] is receiveing value [123455]
+Thu, 25 Jul 2019 15:13:46-test_case.models.RecordLog-login_page.py-[line:31]-INFO-[日志信息]: loginning...
+Thu, 25 Jul 2019 15:13:47-test_case.models.RecordLog-login_page.py-[line:50]-INFO-[日志信息]: login fail
+Thu, 25 Jul 2019 15:13:47-test_case.models.RecordLog-myunit.py-[line:31]-INFO-[日志信息]: ************************test case run completed************************
+Thu, 25 Jul 2019 15:13:50-test_case.models.RecordLog-myunit.py-[line:35]-INFO-[日志信息]: quit the browser success!
+Thu, 25 Jul 2019 15:15:28-test_case.models.RecordLog-driver.py-[line:23]-INFO-[日志信息]: found the webdriver driver successed
+Thu, 25 Jul 2019 15:15:32-test_case.models.RecordLog-myunit.py-[line:13]-INFO-[日志信息]: opened the browser successed!
+Thu, 25 Jul 2019 15:15:46-test_case.models.RecordLog-base.py-[line:26]-INFO-[日志信息]: http://supplytest.fandow.com loading successed!
+Thu, 25 Jul 2019 15:15:46-test_case.models.RecordLog-myunit.py-[line:23]-INFO-[日志信息]: ************************starting run test cases************************
+Thu, 25 Jul 2019 15:15:47-test_case.models.RecordLog-base.py-[line:108]-INFO-[日志信息]: inputValue:[<selenium.webdriver.remote.webelement.WebElement (session="5e3c0d5499cd21033a8935eb9395e8af", element="0.14371728427420893-1")>] is receiveing value [fd-0001]
+Thu, 25 Jul 2019 15:15:47-test_case.models.RecordLog-base.py-[line:108]-INFO-[日志信息]: inputValue:[<selenium.webdriver.remote.webelement.WebElement (session="5e3c0d5499cd21033a8935eb9395e8af", element="0.14371728427420893-2")>] is receiveing value [123455]
+Thu, 25 Jul 2019 15:15:47-test_case.models.RecordLog-login_page.py-[line:31]-INFO-[日志信息]: loginning...
+Thu, 25 Jul 2019 15:15:49-test_case.models.RecordLog-login_page.py-[line:50]-INFO-[日志信息]: login fail
+Thu, 25 Jul 2019 15:15:49-test_case.models.RecordLog-LoginTc.py-[line:40]-INFO-[日志信息]: run completed! please check the test report
+Thu, 25 Jul 2019 15:15:49-test_case.models.RecordLog-myunit.py-[line:31]-INFO-[日志信息]: ************************test case run completed************************
+Thu, 25 Jul 2019 15:15:52-test_case.models.RecordLog-myunit.py-[line:35]-INFO-[日志信息]: quit the browser success!
+Thu, 25 Jul 2019 15:17:03-test_case.models.RecordLog-driver.py-[line:23]-INFO-[日志信息]: found the webdriver driver successed
+Thu, 25 Jul 2019 15:17:07-test_case.models.RecordLog-myunit.py-[line:13]-INFO-[日志信息]: opened the browser successed!
+Thu, 25 Jul 2019 15:17:27-test_case.models.RecordLog-base.py-[line:26]-INFO-[日志信息]: http://supplytest.fandow.com loading successed!
+Thu, 25 Jul 2019 15:17:27-test_case.models.RecordLog-myunit.py-[line:23]-INFO-[日志信息]: ************************starting run test cases************************
+Thu, 25 Jul 2019 15:17:27-test_case.models.RecordLog-base.py-[line:108]-INFO-[日志信息]: inputValue:[<selenium.webdriver.remote.webelement.WebElement (session="c66735b5ccc4428d2b65ec13949553e6", element="0.7932736712782218-1")>] is receiveing value [fd-0001]
+Thu, 25 Jul 2019 15:17:27-test_case.models.RecordLog-base.py-[line:108]-INFO-[日志信息]: inputValue:[<selenium.webdriver.remote.webelement.WebElement (session="c66735b5ccc4428d2b65ec13949553e6", element="0.7932736712782218-2")>] is receiveing value [123455]
+Thu, 25 Jul 2019 15:17:28-test_case.models.RecordLog-login_page.py-[line:31]-INFO-[日志信息]: loginning...
+Thu, 25 Jul 2019 15:17:30-test_case.models.RecordLog-login_page.py-[line:50]-INFO-[日志信息]: login fail
+Thu, 25 Jul 2019 15:17:30-test_case.models.RecordLog-LoginTc.py-[line:40]-INFO-[日志信息]: run completed! please check the test report
+Thu, 25 Jul 2019 15:17:31-test_case.models.RecordLog-myunit.py-[line:31]-INFO-[日志信息]: ************************test case run completed************************
+Thu, 25 Jul 2019 15:17:31-test_case.models.RecordLog-base.py-[line:26]-INFO-[日志信息]: http://supplytest.fandow.com loading successed!
+Thu, 25 Jul 2019 15:17:31-test_case.models.RecordLog-myunit.py-[line:23]-INFO-[日志信息]: ************************starting run test cases************************
+Thu, 25 Jul 2019 15:17:32-test_case.models.RecordLog-base.py-[line:108]-INFO-[日志信息]: inputValue:[<selenium.webdriver.remote.webelement.WebElement (session="c66735b5ccc4428d2b65ec13949553e6", element="0.1661643507936561-1")>] is receiveing value [fd-0001]
+Thu, 25 Jul 2019 15:17:32-test_case.models.RecordLog-base.py-[line:108]-INFO-[日志信息]: inputValue:[<selenium.webdriver.remote.webelement.WebElement (session="c66735b5ccc4428d2b65ec13949553e6", element="0.1661643507936561-2")>] is receiveing value [123456]
+Thu, 25 Jul 2019 15:17:32-test_case.models.RecordLog-login_page.py-[line:31]-INFO-[日志信息]: loginning...
+Thu, 25 Jul 2019 15:17:34-test_case.models.RecordLog-base.py-[line:195]-INFO-[日志信息]: save screenshot failed
+Thu, 25 Jul 2019 15:17:34-test_case.models.RecordLog-LoginTc.py-[line:22]-INFO-[日志信息]: run completed! please check the test report
+Thu, 25 Jul 2019 15:17:34-test_case.models.RecordLog-myunit.py-[line:31]-INFO-[日志信息]: ************************test case run completed************************
+Thu, 25 Jul 2019 15:17:35-test_case.models.RecordLog-base.py-[line:26]-INFO-[日志信息]: http://supplytest.fandow.com loading successed!
+Thu, 25 Jul 2019 15:17:35-test_case.models.RecordLog-myunit.py-[line:23]-INFO-[日志信息]: ************************starting run test cases************************
+Thu, 25 Jul 2019 15:18:06-test_case.models.RecordLog-base.py-[line:37]-INFO-[日志信息]: finding element timeout!, details
+Thu, 25 Jul 2019 15:18:16-test_case.models.RecordLog-base.py-[line:37]-INFO-[日志信息]: finding element timeout!, details
+Thu, 25 Jul 2019 15:18:16-test_case.models.RecordLog-base.py-[line:105]-INFO-[日志信息]: typing value error!
+Thu, 25 Jul 2019 15:18:18-test_case.models.RecordLog-myunit.py-[line:35]-INFO-[日志信息]: quit the browser success!
+Thu, 25 Jul 2019 15:41:30-test_case.models.RecordLog-driver.py-[line:23]-INFO-[日志信息]: found the webdriver driver successed
+Thu, 25 Jul 2019 15:41:34-test_case.models.RecordLog-myunit.py-[line:13]-INFO-[日志信息]: opened the browser successed!
+Thu, 25 Jul 2019 15:41:51-test_case.models.RecordLog-base.py-[line:26]-INFO-[日志信息]: http://supplytest.fandow.com loading successed!
+Thu, 25 Jul 2019 15:41:51-test_case.models.RecordLog-myunit.py-[line:23]-INFO-[日志信息]: ************************starting run test cases************************
+Thu, 25 Jul 2019 15:41:51-test_case.models.RecordLog-base.py-[line:108]-INFO-[日志信息]: inputValue:[<selenium.webdriver.remote.webelement.WebElement (session="605888f325b91b7fdd54220ae1ab200a", element="0.8668140244078792-1")>] is receiveing value [fd-0001]
+Thu, 25 Jul 2019 15:41:51-test_case.models.RecordLog-base.py-[line:108]-INFO-[日志信息]: inputValue:[<selenium.webdriver.remote.webelement.WebElement (session="605888f325b91b7fdd54220ae1ab200a", element="0.8668140244078792-2")>] is receiveing value [123455]
+Thu, 25 Jul 2019 15:41:52-test_case.models.RecordLog-login_page.py-[line:31]-INFO-[日志信息]: loginning...
+Thu, 25 Jul 2019 15:41:54-test_case.models.RecordLog-login_page.py-[line:50]-INFO-[日志信息]: login fail
+Thu, 25 Jul 2019 15:41:54-test_case.models.RecordLog-LoginTc.py-[line:41]-INFO-[日志信息]: run completed! please check the test report
+Thu, 25 Jul 2019 15:41:54-test_case.models.RecordLog-myunit.py-[line:31]-INFO-[日志信息]: ************************test case run completed************************
+Thu, 25 Jul 2019 15:41:54-test_case.models.RecordLog-base.py-[line:26]-INFO-[日志信息]: http://supplytest.fandow.com loading successed!
+Thu, 25 Jul 2019 15:41:54-test_case.models.RecordLog-myunit.py-[line:23]-INFO-[日志信息]: ************************starting run test cases************************
+Thu, 25 Jul 2019 15:41:54-test_case.models.RecordLog-base.py-[line:108]-INFO-[日志信息]: inputValue:[<selenium.webdriver.remote.webelement.WebElement (session="605888f325b91b7fdd54220ae1ab200a", element="0.37291750851804784-1")>] is receiveing value [fd-0001]
+Thu, 25 Jul 2019 15:41:55-test_case.models.RecordLog-base.py-[line:108]-INFO-[日志信息]: inputValue:[<selenium.webdriver.remote.webelement.WebElement (session="605888f325b91b7fdd54220ae1ab200a", element="0.37291750851804784-2")>] is receiveing value [123456]
+Thu, 25 Jul 2019 15:41:55-test_case.models.RecordLog-login_page.py-[line:31]-INFO-[日志信息]: loginning...
+Thu, 25 Jul 2019 15:41:57-test_case.models.RecordLog-base.py-[line:195]-INFO-[日志信息]: save screenshot failed
+Thu, 25 Jul 2019 15:41:57-test_case.models.RecordLog-LoginTc.py-[line:23]-INFO-[日志信息]: run completed! please check the test report
+Thu, 25 Jul 2019 15:41:57-test_case.models.RecordLog-myunit.py-[line:31]-INFO-[日志信息]: ************************test case run completed************************
+Thu, 25 Jul 2019 15:41:57-test_case.models.RecordLog-base.py-[line:26]-INFO-[日志信息]: http://supplytest.fandow.com loading successed!
+Thu, 25 Jul 2019 15:41:57-test_case.models.RecordLog-myunit.py-[line:23]-INFO-[日志信息]: ************************starting run test cases************************
+Thu, 25 Jul 2019 15:41:58-test_case.models.RecordLog-base.py-[line:108]-INFO-[日志信息]: inputValue:[<selenium.webdriver.remote.webelement.WebElement (session="605888f325b91b7fdd54220ae1ab200a", element="0.03306675207337273-1")>] is receiveing value [12345]
+Thu, 25 Jul 2019 15:41:58-test_case.models.RecordLog-base.py-[line:108]-INFO-[日志信息]: inputValue:[<selenium.webdriver.remote.webelement.WebElement (session="605888f325b91b7fdd54220ae1ab200a", element="0.03306675207337273-2")>] is receiveing value [123456]
+Thu, 25 Jul 2019 15:41:58-test_case.models.RecordLog-login_page.py-[line:31]-INFO-[日志信息]: loginning...
+Thu, 25 Jul 2019 15:42:00-test_case.models.RecordLog-login_page.py-[line:50]-INFO-[日志信息]: login fail
+Thu, 25 Jul 2019 15:42:00-test_case.models.RecordLog-LoginTc.py-[line:32]-INFO-[日志信息]: run completed! please check the test report
+Thu, 25 Jul 2019 15:42:00-test_case.models.RecordLog-myunit.py-[line:31]-INFO-[日志信息]: ************************test case run completed************************
+Thu, 25 Jul 2019 15:42:02-test_case.models.RecordLog-myunit.py-[line:35]-INFO-[日志信息]: quit the browser success!
+Thu, 25 Jul 2019 15:42:42-test_case.models.RecordLog-driver.py-[line:23]-INFO-[日志信息]: found the webdriver driver successed
+Thu, 25 Jul 2019 15:42:47-test_case.models.RecordLog-myunit.py-[line:13]-INFO-[日志信息]: opened the browser successed!
+Thu, 25 Jul 2019 15:43:04-test_case.models.RecordLog-base.py-[line:26]-INFO-[日志信息]: http://supplytest.fandow.com loading successed!
+Thu, 25 Jul 2019 15:43:04-test_case.models.RecordLog-myunit.py-[line:23]-INFO-[日志信息]: ************************starting run test cases************************
+Thu, 25 Jul 2019 15:43:04-test_case.models.RecordLog-base.py-[line:108]-INFO-[日志信息]: inputValue:[<selenium.webdriver.remote.webelement.WebElement (session="45b76795fb38df05d07c3f096f38e1b9", element="0.09850540306548439-1")>] is receiveing value [fd-0001]
+Thu, 25 Jul 2019 15:43:04-test_case.models.RecordLog-base.py-[line:108]-INFO-[日志信息]: inputValue:[<selenium.webdriver.remote.webelement.WebElement (session="45b76795fb38df05d07c3f096f38e1b9", element="0.09850540306548439-2")>] is receiveing value [123455]
+Thu, 25 Jul 2019 15:43:05-test_case.models.RecordLog-login_page.py-[line:31]-INFO-[日志信息]: loginning...
+Thu, 25 Jul 2019 15:43:07-test_case.models.RecordLog-login_page.py-[line:50]-INFO-[日志信息]: login fail
+Thu, 25 Jul 2019 15:43:07-test_case.models.RecordLog-LoginTc.py-[line:41]-INFO-[日志信息]: run completed! please check the test report
+Thu, 25 Jul 2019 15:43:07-test_case.models.RecordLog-myunit.py-[line:31]-INFO-[日志信息]: ************************test case run completed************************
+Thu, 25 Jul 2019 15:43:07-test_case.models.RecordLog-base.py-[line:26]-INFO-[日志信息]: http://supplytest.fandow.com loading successed!
+Thu, 25 Jul 2019 15:43:07-test_case.models.RecordLog-myunit.py-[line:23]-INFO-[日志信息]: ************************starting run test cases************************
+Thu, 25 Jul 2019 15:43:07-test_case.models.RecordLog-base.py-[line:108]-INFO-[日志信息]: inputValue:[<selenium.webdriver.remote.webelement.WebElement (session="45b76795fb38df05d07c3f096f38e1b9", element="0.9918229298493872-1")>] is receiveing value [fd-0001]
+Thu, 25 Jul 2019 15:43:08-test_case.models.RecordLog-base.py-[line:108]-INFO-[日志信息]: inputValue:[<selenium.webdriver.remote.webelement.WebElement (session="45b76795fb38df05d07c3f096f38e1b9", element="0.9918229298493872-2")>] is receiveing value [123456]
+Thu, 25 Jul 2019 15:43:08-test_case.models.RecordLog-login_page.py-[line:31]-INFO-[日志信息]: loginning...
+Thu, 25 Jul 2019 15:43:10-test_case.models.RecordLog-base.py-[line:195]-INFO-[日志信息]: save screenshot failed
+Thu, 25 Jul 2019 15:43:10-test_case.models.RecordLog-LoginTc.py-[line:23]-INFO-[日志信息]: run completed! please check the test report
+Thu, 25 Jul 2019 15:43:10-test_case.models.RecordLog-myunit.py-[line:31]-INFO-[日志信息]: ************************test case run completed************************
+Thu, 25 Jul 2019 15:43:10-test_case.models.RecordLog-base.py-[line:26]-INFO-[日志信息]: http://supplytest.fandow.com loading successed!
+Thu, 25 Jul 2019 15:43:10-test_case.models.RecordLog-myunit.py-[line:23]-INFO-[日志信息]: ************************starting run test cases************************
+Thu, 25 Jul 2019 15:43:11-test_case.models.RecordLog-base.py-[line:108]-INFO-[日志信息]: inputValue:[<selenium.webdriver.remote.webelement.WebElement (session="45b76795fb38df05d07c3f096f38e1b9", element="0.32743693563173704-1")>] is receiveing value [12345]
+Thu, 25 Jul 2019 15:43:11-test_case.models.RecordLog-base.py-[line:108]-INFO-[日志信息]: inputValue:[<selenium.webdriver.remote.webelement.WebElement (session="45b76795fb38df05d07c3f096f38e1b9", element="0.32743693563173704-2")>] is receiveing value [123456]
+Thu, 25 Jul 2019 15:43:11-test_case.models.RecordLog-login_page.py-[line:31]-INFO-[日志信息]: loginning...
+Thu, 25 Jul 2019 15:43:13-test_case.models.RecordLog-login_page.py-[line:50]-INFO-[日志信息]: login fail
+Thu, 25 Jul 2019 15:43:13-test_case.models.RecordLog-LoginTc.py-[line:32]-INFO-[日志信息]: run completed! please check the test report
+Thu, 25 Jul 2019 15:43:13-test_case.models.RecordLog-myunit.py-[line:31]-INFO-[日志信息]: ************************test case run completed************************
+Thu, 25 Jul 2019 15:43:16-test_case.models.RecordLog-myunit.py-[line:35]-INFO-[日志信息]: quit the browser success!
+Thu, 25 Jul 2019 16:16:22-test_case.models.RecordLog-driver.py-[line:23]-INFO-[日志信息]: found the webdriver driver successed
+Thu, 25 Jul 2019 16:16:26-test_case.models.RecordLog-myunit.py-[line:13]-INFO-[日志信息]: opened the browser successed!
+Thu, 25 Jul 2019 16:16:42-test_case.models.RecordLog-base.py-[line:26]-INFO-[日志信息]: http://supplytest.fandow.com loading successed!
+Thu, 25 Jul 2019 16:16:42-test_case.models.RecordLog-myunit.py-[line:23]-INFO-[日志信息]: ************************starting run test cases************************
+Thu, 25 Jul 2019 16:16:42-test_case.models.RecordLog-base.py-[line:108]-INFO-[日志信息]: inputValue:[<selenium.webdriver.remote.webelement.WebElement (session="082df416e00bb15b3d30e210c4b52c8c", element="0.7393371585798096-1")>] is receiveing value [fd-0001]
+Thu, 25 Jul 2019 16:16:42-test_case.models.RecordLog-base.py-[line:108]-INFO-[日志信息]: inputValue:[<selenium.webdriver.remote.webelement.WebElement (session="082df416e00bb15b3d30e210c4b52c8c", element="0.7393371585798096-2")>] is receiveing value [123455]
+Thu, 25 Jul 2019 16:16:42-test_case.models.RecordLog-login_page.py-[line:31]-INFO-[日志信息]: loginning...
+Thu, 25 Jul 2019 16:16:44-test_case.models.RecordLog-login_page.py-[line:50]-INFO-[日志信息]: login fail
+Thu, 25 Jul 2019 16:16:44-test_case.models.RecordLog-LoginTc.py-[line:41]-INFO-[日志信息]: run completed! please check the test report
+Thu, 25 Jul 2019 16:16:45-test_case.models.RecordLog-myunit.py-[line:31]-INFO-[日志信息]: ************************test case run completed************************
+Thu, 25 Jul 2019 16:16:45-test_case.models.RecordLog-base.py-[line:26]-INFO-[日志信息]: http://supplytest.fandow.com loading successed!
+Thu, 25 Jul 2019 16:16:45-test_case.models.RecordLog-myunit.py-[line:23]-INFO-[日志信息]: ************************starting run test cases************************
+Thu, 25 Jul 2019 16:16:45-test_case.models.RecordLog-base.py-[line:108]-INFO-[日志信息]: inputValue:[<selenium.webdriver.remote.webelement.WebElement (session="082df416e00bb15b3d30e210c4b52c8c", element="0.2776726551413464-1")>] is receiveing value [fd-0001]
+Thu, 25 Jul 2019 16:16:45-test_case.models.RecordLog-base.py-[line:105]-INFO-[日志信息]: typing value error!
+Thu, 25 Jul 2019 16:16:46-test_case.models.RecordLog-myunit.py-[line:31]-INFO-[日志信息]: ************************test case run completed************************
+Thu, 25 Jul 2019 16:16:46-test_case.models.RecordLog-base.py-[line:26]-INFO-[日志信息]: http://supplytest.fandow.com loading successed!
+Thu, 25 Jul 2019 16:16:46-test_case.models.RecordLog-myunit.py-[line:23]-INFO-[日志信息]: ************************starting run test cases************************
+Thu, 25 Jul 2019 16:16:46-test_case.models.RecordLog-base.py-[line:105]-INFO-[日志信息]: typing value error!
+Thu, 25 Jul 2019 16:16:46-test_case.models.RecordLog-myunit.py-[line:31]-INFO-[日志信息]: ************************test case run completed************************
+Thu, 25 Jul 2019 16:16:47-test_case.models.RecordLog-base.py-[line:26]-INFO-[日志信息]: http://supplytest.fandow.com loading successed!
+Thu, 25 Jul 2019 16:16:47-test_case.models.RecordLog-myunit.py-[line:23]-INFO-[日志信息]: ************************starting run test cases************************
+Thu, 25 Jul 2019 16:16:47-test_case.models.RecordLog-base.py-[line:105]-INFO-[日志信息]: typing value error!
+Thu, 25 Jul 2019 16:16:47-test_case.models.RecordLog-myunit.py-[line:31]-INFO-[日志信息]: ************************test case run completed************************
+Thu, 25 Jul 2019 16:16:47-test_case.models.RecordLog-base.py-[line:26]-INFO-[日志信息]: http://supplytest.fandow.com loading successed!
+Thu, 25 Jul 2019 16:16:47-test_case.models.RecordLog-myunit.py-[line:23]-INFO-[日志信息]: ************************starting run test cases************************
+Thu, 25 Jul 2019 16:16:47-test_case.models.RecordLog-base.py-[line:108]-INFO-[日志信息]: inputValue:[<selenium.webdriver.remote.webelement.WebElement (session="082df416e00bb15b3d30e210c4b52c8c", element="0.2758246440213854-1")>] is receiveing value [1234]
+Thu, 25 Jul 2019 16:16:48-test_case.models.RecordLog-base.py-[line:108]-INFO-[日志信息]: inputValue:[<selenium.webdriver.remote.webelement.WebElement (session="082df416e00bb15b3d30e210c4b52c8c", element="0.2758246440213854-2")>] is receiveing value [987777]
+Thu, 25 Jul 2019 16:16:48-test_case.models.RecordLog-login_page.py-[line:31]-INFO-[日志信息]: loginning...
+Thu, 25 Jul 2019 16:16:50-test_case.models.RecordLog-login_page.py-[line:50]-INFO-[日志信息]: login fail
+Thu, 25 Jul 2019 16:16:50-test_case.models.RecordLog-LoginTc.py-[line:63]-INFO-[日志信息]: run completed! please check the test report
+Thu, 25 Jul 2019 16:16:50-test_case.models.RecordLog-myunit.py-[line:31]-INFO-[日志信息]: ************************test case run completed************************
+Thu, 25 Jul 2019 16:16:50-test_case.models.RecordLog-base.py-[line:26]-INFO-[日志信息]: http://supplytest.fandow.com loading successed!
+Thu, 25 Jul 2019 16:16:50-test_case.models.RecordLog-myunit.py-[line:23]-INFO-[日志信息]: ************************starting run test cases************************
+Thu, 25 Jul 2019 16:16:51-test_case.models.RecordLog-base.py-[line:108]-INFO-[日志信息]: inputValue:[<selenium.webdriver.remote.webelement.WebElement (session="082df416e00bb15b3d30e210c4b52c8c", element="0.6316689155345443-1")>] is receiveing value [fd-0001]
+Thu, 25 Jul 2019 16:16:51-test_case.models.RecordLog-base.py-[line:108]-INFO-[日志信息]: inputValue:[<selenium.webdriver.remote.webelement.WebElement (session="082df416e00bb15b3d30e210c4b52c8c", element="0.6316689155345443-2")>] is receiveing value [123456]
+Thu, 25 Jul 2019 16:16:51-test_case.models.RecordLog-login_page.py-[line:31]-INFO-[日志信息]: loginning...
+Thu, 25 Jul 2019 16:16:53-test_case.models.RecordLog-base.py-[line:195]-INFO-[日志信息]: save screenshot failed
+Thu, 25 Jul 2019 16:16:53-test_case.models.RecordLog-LoginTc.py-[line:23]-INFO-[日志信息]: run completed! please check the test report
+Thu, 25 Jul 2019 16:16:53-test_case.models.RecordLog-myunit.py-[line:31]-INFO-[日志信息]: ************************test case run completed************************
+Thu, 25 Jul 2019 16:16:54-test_case.models.RecordLog-base.py-[line:26]-INFO-[日志信息]: http://supplytest.fandow.com loading successed!
+Thu, 25 Jul 2019 16:16:54-test_case.models.RecordLog-myunit.py-[line:23]-INFO-[日志信息]: ************************starting run test cases************************
+Thu, 25 Jul 2019 16:16:54-test_case.models.RecordLog-base.py-[line:108]-INFO-[日志信息]: inputValue:[<selenium.webdriver.remote.webelement.WebElement (session="082df416e00bb15b3d30e210c4b52c8c", element="0.9200354869231979-1")>] is receiveing value [12345]
+Thu, 25 Jul 2019 16:16:54-test_case.models.RecordLog-base.py-[line:108]-INFO-[日志信息]: inputValue:[<selenium.webdriver.remote.webelement.WebElement (session="082df416e00bb15b3d30e210c4b52c8c", element="0.9200354869231979-2")>] is receiveing value [123456]
+Thu, 25 Jul 2019 16:16:54-test_case.models.RecordLog-login_page.py-[line:31]-INFO-[日志信息]: loginning...
+Thu, 25 Jul 2019 16:16:56-test_case.models.RecordLog-login_page.py-[line:50]-INFO-[日志信息]: login fail
+Thu, 25 Jul 2019 16:16:56-test_case.models.RecordLog-LoginTc.py-[line:32]-INFO-[日志信息]: run completed! please check the test report
+Thu, 25 Jul 2019 16:16:56-test_case.models.RecordLog-myunit.py-[line:31]-INFO-[日志信息]: ************************test case run completed************************
+Thu, 25 Jul 2019 16:16:59-test_case.models.RecordLog-myunit.py-[line:35]-INFO-[日志信息]: quit the browser success!
+Thu, 25 Jul 2019 16:22:58-test_case.models.RecordLog-driver.py-[line:23]-INFO-[日志信息]: found the webdriver driver successed
+Thu, 25 Jul 2019 16:23:03-test_case.models.RecordLog-myunit.py-[line:13]-INFO-[日志信息]: opened the browser successed!
+Thu, 25 Jul 2019 16:23:21-test_case.models.RecordLog-base.py-[line:26]-INFO-[日志信息]: http://supplytest.fandow.com loading successed!
+Thu, 25 Jul 2019 16:23:21-test_case.models.RecordLog-myunit.py-[line:23]-INFO-[日志信息]: ************************starting run test cases************************
+Thu, 25 Jul 2019 16:23:21-test_case.models.RecordLog-base.py-[line:108]-INFO-[日志信息]: inputValue:[<selenium.webdriver.remote.webelement.WebElement (session="37212c66e25d7054d2889702c19e06ed", element="0.2612357601335904-1")>] is receiveing value [fd-0001]
+Thu, 25 Jul 2019 16:23:21-test_case.models.RecordLog-base.py-[line:108]-INFO-[日志信息]: inputValue:[<selenium.webdriver.remote.webelement.WebElement (session="37212c66e25d7054d2889702c19e06ed", element="0.2612357601335904-2")>] is receiveing value [123455]
+Thu, 25 Jul 2019 16:23:21-test_case.models.RecordLog-login_page.py-[line:31]-INFO-[日志信息]: loginning...
+Thu, 25 Jul 2019 16:23:23-test_case.models.RecordLog-login_page.py-[line:50]-INFO-[日志信息]: login fail
+Thu, 25 Jul 2019 16:23:23-test_case.models.RecordLog-LoginTc.py-[line:41]-INFO-[日志信息]: run completed! please check the test report
+Thu, 25 Jul 2019 16:23:24-test_case.models.RecordLog-myunit.py-[line:31]-INFO-[日志信息]: ************************test case run completed************************
+Thu, 25 Jul 2019 16:23:24-test_case.models.RecordLog-base.py-[line:26]-INFO-[日志信息]: http://supplytest.fandow.com loading successed!
+Thu, 25 Jul 2019 16:23:24-test_case.models.RecordLog-myunit.py-[line:23]-INFO-[日志信息]: ************************starting run test cases************************
+Thu, 25 Jul 2019 16:23:24-test_case.models.RecordLog-base.py-[line:108]-INFO-[日志信息]: inputValue:[<selenium.webdriver.remote.webelement.WebElement (session="37212c66e25d7054d2889702c19e06ed", element="0.8557020705882799-1")>] is receiveing value [fd-0001]
+Thu, 25 Jul 2019 16:23:24-test_case.models.RecordLog-base.py-[line:108]-INFO-[日志信息]: inputValue:[<selenium.webdriver.remote.webelement.WebElement (session="37212c66e25d7054d2889702c19e06ed", element="0.8557020705882799-2")>] is receiveing value [ ]
+Thu, 25 Jul 2019 16:23:25-test_case.models.RecordLog-login_page.py-[line:31]-INFO-[日志信息]: loginning...
+Thu, 25 Jul 2019 16:23:58-test_case.models.RecordLog-base.py-[line:37]-INFO-[日志信息]: finding element timeout!, details
+Thu, 25 Jul 2019 16:23:58-test_case.models.RecordLog-myunit.py-[line:31]-INFO-[日志信息]: ************************test case run completed************************
+Thu, 25 Jul 2019 16:23:59-test_case.models.RecordLog-base.py-[line:26]-INFO-[日志信息]: http://supplytest.fandow.com loading successed!
+Thu, 25 Jul 2019 16:23:59-test_case.models.RecordLog-myunit.py-[line:23]-INFO-[日志信息]: ************************starting run test cases************************
+Thu, 25 Jul 2019 16:23:59-test_case.models.RecordLog-base.py-[line:108]-INFO-[日志信息]: inputValue:[<selenium.webdriver.remote.webelement.WebElement (session="37212c66e25d7054d2889702c19e06ed", element="0.5474855087502157-1")>] is receiveing value [ ]
+Thu, 25 Jul 2019 16:23:59-test_case.models.RecordLog-base.py-[line:108]-INFO-[日志信息]: inputValue:[<selenium.webdriver.remote.webelement.WebElement (session="37212c66e25d7054d2889702c19e06ed", element="0.5474855087502157-2")>] is receiveing value [123456]
+Thu, 25 Jul 2019 16:24:04-test_case.models.RecordLog-login_page.py-[line:31]-INFO-[日志信息]: loginning...
+Thu, 25 Jul 2019 16:24:37-test_case.models.RecordLog-base.py-[line:37]-INFO-[日志信息]: finding element timeout!, details
+Thu, 25 Jul 2019 16:24:38-test_case.models.RecordLog-myunit.py-[line:31]-INFO-[日志信息]: ************************test case run completed************************
+Thu, 25 Jul 2019 16:24:38-test_case.models.RecordLog-base.py-[line:26]-INFO-[日志信息]: http://supplytest.fandow.com loading successed!
+Thu, 25 Jul 2019 16:24:38-test_case.models.RecordLog-myunit.py-[line:23]-INFO-[日志信息]: ************************starting run test cases************************
+Thu, 25 Jul 2019 16:24:38-test_case.models.RecordLog-base.py-[line:108]-INFO-[日志信息]: inputValue:[<selenium.webdriver.remote.webelement.WebElement (session="37212c66e25d7054d2889702c19e06ed", element="0.1570307640687134-1")>] is receiveing value [ ]
+Thu, 25 Jul 2019 16:24:38-test_case.models.RecordLog-base.py-[line:108]-INFO-[日志信息]: inputValue:[<selenium.webdriver.remote.webelement.WebElement (session="37212c66e25d7054d2889702c19e06ed", element="0.1570307640687134-2")>] is receiveing value [ ]
+Thu, 25 Jul 2019 16:24:43-test_case.models.RecordLog-login_page.py-[line:31]-INFO-[日志信息]: loginning...
+Thu, 25 Jul 2019 16:25:17-test_case.models.RecordLog-base.py-[line:37]-INFO-[日志信息]: finding element timeout!, details
+Thu, 25 Jul 2019 16:25:45-test_case.models.RecordLog-base.py-[line:21]-INFO-[日志信息]: Message: chrome not reachable
+  (Session info: chrome=75.0.3770.142)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.18362 x86_64)
+
+Thu, 25 Jul 2019 16:25:59-test_case.models.RecordLog-base.py-[line:21]-INFO-[日志信息]: Message: chrome not reachable
+  (Session info: chrome=75.0.3770.142)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.18362 x86_64)
+
+Thu, 25 Jul 2019 16:26:13-test_case.models.RecordLog-base.py-[line:21]-INFO-[日志信息]: Message: chrome not reachable
+  (Session info: chrome=75.0.3770.142)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.18362 x86_64)
+
+Thu, 25 Jul 2019 16:26:15-test_case.models.RecordLog-myunit.py-[line:35]-INFO-[日志信息]: quit the browser success!
+Thu, 25 Jul 2019 16:26:48-test_case.models.RecordLog-driver.py-[line:23]-INFO-[日志信息]: found the webdriver driver successed
+Thu, 25 Jul 2019 16:26:52-test_case.models.RecordLog-myunit.py-[line:13]-INFO-[日志信息]: opened the browser successed!
+Thu, 25 Jul 2019 16:27:09-test_case.models.RecordLog-base.py-[line:26]-INFO-[日志信息]: http://supplytest.fandow.com loading successed!
+Thu, 25 Jul 2019 16:27:09-test_case.models.RecordLog-myunit.py-[line:23]-INFO-[日志信息]: ************************starting run test cases************************
+Thu, 25 Jul 2019 16:27:10-test_case.models.RecordLog-base.py-[line:108]-INFO-[日志信息]: inputValue:[<selenium.webdriver.remote.webelement.WebElement (session="dfc3561d304009836f57f5737ce52cc4", element="0.5146583676741152-1")>] is receiveing value [fd-0001]
+Thu, 25 Jul 2019 16:27:10-test_case.models.RecordLog-base.py-[line:108]-INFO-[日志信息]: inputValue:[<selenium.webdriver.remote.webelement.WebElement (session="dfc3561d304009836f57f5737ce52cc4", element="0.5146583676741152-2")>] is receiveing value [123455]
+Thu, 25 Jul 2019 16:27:10-test_case.models.RecordLog-login_page.py-[line:31]-INFO-[日志信息]: loginning...
+Thu, 25 Jul 2019 16:27:12-test_case.models.RecordLog-login_page.py-[line:50]-INFO-[日志信息]: login fail
+Thu, 25 Jul 2019 16:27:12-test_case.models.RecordLog-LoginTc.py-[line:41]-INFO-[日志信息]: run completed! please check the test report
+Thu, 25 Jul 2019 16:27:12-test_case.models.RecordLog-myunit.py-[line:31]-INFO-[日志信息]: ************************test case run completed************************
+Thu, 25 Jul 2019 16:27:12-test_case.models.RecordLog-base.py-[line:26]-INFO-[日志信息]: http://supplytest.fandow.com loading successed!
+Thu, 25 Jul 2019 16:27:12-test_case.models.RecordLog-myunit.py-[line:23]-INFO-[日志信息]: ************************starting run test cases************************
+Thu, 25 Jul 2019 16:27:13-test_case.models.RecordLog-base.py-[line:108]-INFO-[日志信息]: inputValue:[<selenium.webdriver.remote.webelement.WebElement (session="dfc3561d304009836f57f5737ce52cc4", element="0.8747502118097952-1")>] is receiveing value [fd-0001]
+Thu, 25 Jul 2019 16:27:13-test_case.models.RecordLog-base.py-[line:108]-INFO-[日志信息]: inputValue:[<selenium.webdriver.remote.webelement.WebElement (session="dfc3561d304009836f57f5737ce52cc4", element="0.8747502118097952-2")>] is receiveing value [ ]
+Thu, 25 Jul 2019 16:27:13-test_case.models.RecordLog-login_page.py-[line:31]-INFO-[日志信息]: loginning...
+Thu, 25 Jul 2019 16:27:46-test_case.models.RecordLog-base.py-[line:37]-INFO-[日志信息]: finding element timeout!, details
+Thu, 25 Jul 2019 16:27:47-test_case.models.RecordLog-myunit.py-[line:31]-INFO-[日志信息]: ************************test case run completed************************
+Thu, 25 Jul 2019 16:27:47-test_case.models.RecordLog-base.py-[line:26]-INFO-[日志信息]: http://supplytest.fandow.com loading successed!
+Thu, 25 Jul 2019 16:27:47-test_case.models.RecordLog-myunit.py-[line:23]-INFO-[日志信息]: ************************starting run test cases************************
+Thu, 25 Jul 2019 16:27:47-test_case.models.RecordLog-base.py-[line:108]-INFO-[日志信息]: inputValue:[<selenium.webdriver.remote.webelement.WebElement (session="dfc3561d304009836f57f5737ce52cc4", element="0.3327655179261615-1")>] is receiveing value [ ]
+Thu, 25 Jul 2019 16:27:47-test_case.models.RecordLog-base.py-[line:108]-INFO-[日志信息]: inputValue:[<selenium.webdriver.remote.webelement.WebElement (session="dfc3561d304009836f57f5737ce52cc4", element="0.3327655179261615-2")>] is receiveing value [123456]
+Thu, 25 Jul 2019 16:27:47-test_case.models.RecordLog-login_page.py-[line:31]-INFO-[日志信息]: loginning...
+Thu, 25 Jul 2019 16:28:21-test_case.models.RecordLog-base.py-[line:37]-INFO-[日志信息]: finding element timeout!, details
+Thu, 25 Jul 2019 16:28:21-test_case.models.RecordLog-myunit.py-[line:31]-INFO-[日志信息]: ************************test case run completed************************
+Thu, 25 Jul 2019 16:28:22-test_case.models.RecordLog-base.py-[line:26]-INFO-[日志信息]: http://supplytest.fandow.com loading successed!
+Thu, 25 Jul 2019 16:28:22-test_case.models.RecordLog-myunit.py-[line:23]-INFO-[日志信息]: ************************starting run test cases************************
+Thu, 25 Jul 2019 16:28:22-test_case.models.RecordLog-base.py-[line:108]-INFO-[日志信息]: inputValue:[<selenium.webdriver.remote.webelement.WebElement (session="dfc3561d304009836f57f5737ce52cc4", element="0.9226346100230707-1")>] is receiveing value [ ]
+Thu, 25 Jul 2019 16:28:22-test_case.models.RecordLog-base.py-[line:108]-INFO-[日志信息]: inputValue:[<selenium.webdriver.remote.webelement.WebElement (session="dfc3561d304009836f57f5737ce52cc4", element="0.9226346100230707-2")>] is receiveing value [ ]
+Thu, 25 Jul 2019 16:28:22-test_case.models.RecordLog-login_page.py-[line:31]-INFO-[日志信息]: loginning...
+Thu, 25 Jul 2019 16:28:56-test_case.models.RecordLog-base.py-[line:37]-INFO-[日志信息]: finding element timeout!, details
+Thu, 25 Jul 2019 16:28:56-test_case.models.RecordLog-myunit.py-[line:31]-INFO-[日志信息]: ************************test case run completed************************
+Thu, 25 Jul 2019 16:28:56-test_case.models.RecordLog-base.py-[line:26]-INFO-[日志信息]: http://supplytest.fandow.com loading successed!
+Thu, 25 Jul 2019 16:28:56-test_case.models.RecordLog-myunit.py-[line:23]-INFO-[日志信息]: ************************starting run test cases************************
+Thu, 25 Jul 2019 16:28:56-test_case.models.RecordLog-base.py-[line:108]-INFO-[日志信息]: inputValue:[<selenium.webdriver.remote.webelement.WebElement (session="dfc3561d304009836f57f5737ce52cc4", element="0.10709084197142293-1")>] is receiveing value [1234]
+Thu, 25 Jul 2019 16:28:56-test_case.models.RecordLog-base.py-[line:108]-INFO-[日志信息]: inputValue:[<selenium.webdriver.remote.webelement.WebElement (session="dfc3561d304009836f57f5737ce52cc4", element="0.10709084197142293-2")>] is receiveing value [987777]
+Thu, 25 Jul 2019 16:28:56-test_case.models.RecordLog-login_page.py-[line:31]-INFO-[日志信息]: loginning...
+Thu, 25 Jul 2019 16:28:59-test_case.models.RecordLog-login_page.py-[line:50]-INFO-[日志信息]: login fail
+Thu, 25 Jul 2019 16:28:59-test_case.models.RecordLog-LoginTc.py-[line:63]-INFO-[日志信息]: run completed! please check the test report
+Thu, 25 Jul 2019 16:28:59-test_case.models.RecordLog-myunit.py-[line:31]-INFO-[日志信息]: ************************test case run completed************************
+Thu, 25 Jul 2019 16:28:59-test_case.models.RecordLog-base.py-[line:26]-INFO-[日志信息]: http://supplytest.fandow.com loading successed!
+Thu, 25 Jul 2019 16:28:59-test_case.models.RecordLog-myunit.py-[line:23]-INFO-[日志信息]: ************************starting run test cases************************
+Thu, 25 Jul 2019 16:28:59-test_case.models.RecordLog-base.py-[line:108]-INFO-[日志信息]: inputValue:[<selenium.webdriver.remote.webelement.WebElement (session="dfc3561d304009836f57f5737ce52cc4", element="0.48280404519187203-1")>] is receiveing value [fd-0001]
+Thu, 25 Jul 2019 16:28:59-test_case.models.RecordLog-base.py-[line:108]-INFO-[日志信息]: inputValue:[<selenium.webdriver.remote.webelement.WebElement (session="dfc3561d304009836f57f5737ce52cc4", element="0.48280404519187203-2")>] is receiveing value [123456]
+Thu, 25 Jul 2019 16:28:59-test_case.models.RecordLog-login_page.py-[line:31]-INFO-[日志信息]: loginning...
+Thu, 25 Jul 2019 16:29:02-test_case.models.RecordLog-base.py-[line:195]-INFO-[日志信息]: save screenshot failed
+Thu, 25 Jul 2019 16:29:02-test_case.models.RecordLog-LoginTc.py-[line:23]-INFO-[日志信息]: run completed! please check the test report
+Thu, 25 Jul 2019 16:29:02-test_case.models.RecordLog-myunit.py-[line:31]-INFO-[日志信息]: ************************test case run completed************************
+Thu, 25 Jul 2019 16:29:02-test_case.models.RecordLog-base.py-[line:26]-INFO-[日志信息]: http://supplytest.fandow.com loading successed!
+Thu, 25 Jul 2019 16:29:02-test_case.models.RecordLog-myunit.py-[line:23]-INFO-[日志信息]: ************************starting run test cases************************
+Thu, 25 Jul 2019 16:29:02-test_case.models.RecordLog-base.py-[line:108]-INFO-[日志信息]: inputValue:[<selenium.webdriver.remote.webelement.WebElement (session="dfc3561d304009836f57f5737ce52cc4", element="0.721112805940918-1")>] is receiveing value [12345]
+Thu, 25 Jul 2019 16:29:02-test_case.models.RecordLog-base.py-[line:108]-INFO-[日志信息]: inputValue:[<selenium.webdriver.remote.webelement.WebElement (session="dfc3561d304009836f57f5737ce52cc4", element="0.721112805940918-2")>] is receiveing value [123456]
+Thu, 25 Jul 2019 16:29:02-test_case.models.RecordLog-login_page.py-[line:31]-INFO-[日志信息]: loginning...
+Thu, 25 Jul 2019 16:29:05-test_case.models.RecordLog-login_page.py-[line:50]-INFO-[日志信息]: login fail
+Thu, 25 Jul 2019 16:29:05-test_case.models.RecordLog-LoginTc.py-[line:32]-INFO-[日志信息]: run completed! please check the test report
+Thu, 25 Jul 2019 16:29:05-test_case.models.RecordLog-myunit.py-[line:31]-INFO-[日志信息]: ************************test case run completed************************
+Thu, 25 Jul 2019 16:29:07-test_case.models.RecordLog-myunit.py-[line:35]-INFO-[日志信息]: quit the browser success!
+Thu, 25 Jul 2019 16:51:33-test_case.models.RecordLog-driver.py-[line:23]-INFO-[日志信息]: found the webdriver driver successed
+Thu, 25 Jul 2019 16:51:38-test_case.models.RecordLog-myunit.py-[line:13]-INFO-[日志信息]: opened the browser successed!
+Thu, 25 Jul 2019 16:51:41-test_case.models.RecordLog-base.py-[line:26]-INFO-[日志信息]: http://supplytest.fandow.com loading successed!
+Thu, 25 Jul 2019 16:51:41-test_case.models.RecordLog-myunit.py-[line:23]-INFO-[日志信息]: ************************starting run test cases************************
+Thu, 25 Jul 2019 16:51:41-test_case.models.RecordLog-base.py-[line:37]-INFO-[日志信息]: finding element timeout!, details
+Thu, 25 Jul 2019 16:51:41-test_case.models.RecordLog-base.py-[line:37]-INFO-[日志信息]: finding element timeout!, details
+Thu, 25 Jul 2019 16:51:41-test_case.models.RecordLog-base.py-[line:105]-INFO-[日志信息]: typing value error!
+Thu, 25 Jul 2019 16:51:41-test_case.models.RecordLog-base.py-[line:21]-INFO-[日志信息]: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=75.0.3770.142)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.18362 x86_64)
+
+Thu, 25 Jul 2019 16:51:41-test_case.models.RecordLog-base.py-[line:21]-INFO-[日志信息]: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=75.0.3770.142)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.18362 x86_64)
+
+Thu, 25 Jul 2019 16:51:41-test_case.models.RecordLog-base.py-[line:21]-INFO-[日志信息]: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=75.0.3770.142)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.18362 x86_64)
+
+Thu, 25 Jul 2019 16:51:41-test_case.models.RecordLog-base.py-[line:21]-INFO-[日志信息]: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=75.0.3770.142)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.18362 x86_64)
+
+Thu, 25 Jul 2019 16:51:41-test_case.models.RecordLog-base.py-[line:21]-INFO-[日志信息]: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=75.0.3770.142)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.18362 x86_64)
+
+Thu, 25 Jul 2019 16:51:41-test_case.models.RecordLog-base.py-[line:21]-INFO-[日志信息]: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=75.0.3770.142)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.18362 x86_64)
+
+Thu, 25 Jul 2019 16:51:43-test_case.models.RecordLog-myunit.py-[line:35]-INFO-[日志信息]: quit the browser success!
+Thu, 25 Jul 2019 16:51:59-test_case.models.RecordLog-driver.py-[line:23]-INFO-[日志信息]: found the webdriver driver successed
+Thu, 25 Jul 2019 16:52:03-test_case.models.RecordLog-myunit.py-[line:13]-INFO-[日志信息]: opened the browser successed!
+Thu, 25 Jul 2019 16:52:26-test_case.models.RecordLog-base.py-[line:26]-INFO-[日志信息]: http://supplytest.fandow.com loading successed!
+Thu, 25 Jul 2019 16:52:26-test_case.models.RecordLog-myunit.py-[line:23]-INFO-[日志信息]: ************************starting run test cases************************
+Thu, 25 Jul 2019 16:52:27-test_case.models.RecordLog-base.py-[line:108]-INFO-[日志信息]: inputValue:[<selenium.webdriver.remote.webelement.WebElement (session="fd5d0e34f9ce4151958f23b6a4a665f5", element="0.1777330819189702-1")>] is receiveing value [fd-0001]
+Thu, 25 Jul 2019 16:52:27-test_case.models.RecordLog-base.py-[line:108]-INFO-[日志信息]: inputValue:[<selenium.webdriver.remote.webelement.WebElement (session="fd5d0e34f9ce4151958f23b6a4a665f5", element="0.1777330819189702-2")>] is receiveing value [123455]
+Thu, 25 Jul 2019 16:52:27-test_case.models.RecordLog-login_page.py-[line:31]-INFO-[日志信息]: loginning...
+Thu, 25 Jul 2019 16:52:29-test_case.models.RecordLog-login_page.py-[line:50]-INFO-[日志信息]: login fail
+Thu, 25 Jul 2019 16:52:29-test_case.models.RecordLog-LoginTc.py-[line:41]-INFO-[日志信息]: run completed! please check the test report
+Thu, 25 Jul 2019 16:52:29-test_case.models.RecordLog-myunit.py-[line:31]-INFO-[日志信息]: ************************test case run completed************************
+Thu, 25 Jul 2019 16:52:30-test_case.models.RecordLog-base.py-[line:26]-INFO-[日志信息]: http://supplytest.fandow.com loading successed!
+Thu, 25 Jul 2019 16:52:30-test_case.models.RecordLog-myunit.py-[line:23]-INFO-[日志信息]: ************************starting run test cases************************
+Thu, 25 Jul 2019 16:52:30-test_case.models.RecordLog-base.py-[line:108]-INFO-[日志信息]: inputValue:[<selenium.webdriver.remote.webelement.WebElement (session="fd5d0e34f9ce4151958f23b6a4a665f5", element="0.5616417737416315-1")>] is receiveing value [fd-0001]
+Thu, 25 Jul 2019 16:52:30-test_case.models.RecordLog-base.py-[line:108]-INFO-[日志信息]: inputValue:[<selenium.webdriver.remote.webelement.WebElement (session="fd5d0e34f9ce4151958f23b6a4a665f5", element="0.5616417737416315-2")>] is receiveing value [ ]
+Thu, 25 Jul 2019 16:52:30-test_case.models.RecordLog-login_page.py-[line:31]-INFO-[日志信息]: loginning...
+Thu, 25 Jul 2019 16:52:32-test_case.models.RecordLog-login_page.py-[line:50]-INFO-[日志信息]: login fail
+Thu, 25 Jul 2019 16:52:32-test_case.models.RecordLog-LoginTc.py-[line:68]-INFO-[日志信息]: run completed! please check the test report
+Thu, 25 Jul 2019 16:52:32-test_case.models.RecordLog-myunit.py-[line:31]-INFO-[日志信息]: ************************test case run completed************************
+Thu, 25 Jul 2019 16:52:32-test_case.models.RecordLog-base.py-[line:26]-INFO-[日志信息]: http://supplytest.fandow.com loading successed!
+Thu, 25 Jul 2019 16:52:32-test_case.models.RecordLog-myunit.py-[line:23]-INFO-[日志信息]: ************************starting run test cases************************
+Thu, 25 Jul 2019 16:52:33-test_case.models.RecordLog-base.py-[line:108]-INFO-[日志信息]: inputValue:[<selenium.webdriver.remote.webelement.WebElement (session="fd5d0e34f9ce4151958f23b6a4a665f5", element="0.3346551503037387-1")>] is receiveing value [ ]
+Thu, 25 Jul 2019 16:52:33-test_case.models.RecordLog-base.py-[line:108]-INFO-[日志信息]: inputValue:[<selenium.webdriver.remote.webelement.WebElement (session="fd5d0e34f9ce4151958f23b6a4a665f5", element="0.3346551503037387-2")>] is receiveing value [123456]
+Thu, 25 Jul 2019 16:52:33-test_case.models.RecordLog-login_page.py-[line:31]-INFO-[日志信息]: loginning...
+Thu, 25 Jul 2019 16:52:35-test_case.models.RecordLog-login_page.py-[line:50]-INFO-[日志信息]: login fail
+Thu, 25 Jul 2019 16:52:35-test_case.models.RecordLog-LoginTc.py-[line:77]-INFO-[日志信息]: run completed! please check the test report
+Thu, 25 Jul 2019 16:52:35-test_case.models.RecordLog-myunit.py-[line:31]-INFO-[日志信息]: ************************test case run completed************************
+Thu, 25 Jul 2019 16:52:35-test_case.models.RecordLog-base.py-[line:26]-INFO-[日志信息]: http://supplytest.fandow.com loading successed!
+Thu, 25 Jul 2019 16:52:35-test_case.models.RecordLog-myunit.py-[line:23]-INFO-[日志信息]: ************************starting run test cases************************
+Thu, 25 Jul 2019 16:52:36-test_case.models.RecordLog-base.py-[line:108]-INFO-[日志信息]: inputValue:[<selenium.webdriver.remote.webelement.WebElement (session="fd5d0e34f9ce4151958f23b6a4a665f5", element="0.07228478889154877-1")>] is receiveing value [ ]
+Thu, 25 Jul 2019 16:52:36-test_case.models.RecordLog-base.py-[line:108]-INFO-[日志信息]: inputValue:[<selenium.webdriver.remote.webelement.WebElement (session="fd5d0e34f9ce4151958f23b6a4a665f5", element="0.07228478889154877-2")>] is receiveing value [ ]
+Thu, 25 Jul 2019 16:52:36-test_case.models.RecordLog-login_page.py-[line:31]-INFO-[日志信息]: loginning...
+Thu, 25 Jul 2019 16:52:38-test_case.models.RecordLog-login_page.py-[line:50]-INFO-[日志信息]: login fail
+Thu, 25 Jul 2019 16:52:38-test_case.models.RecordLog-LoginTc.py-[line:50]-INFO-[日志信息]: run completed! please check the test report
+Thu, 25 Jul 2019 16:52:38-test_case.models.RecordLog-myunit.py-[line:31]-INFO-[日志信息]: ************************test case run completed************************
+Thu, 25 Jul 2019 16:52:38-test_case.models.RecordLog-base.py-[line:26]-INFO-[日志信息]: http://supplytest.fandow.com loading successed!
+Thu, 25 Jul 2019 16:52:38-test_case.models.RecordLog-myunit.py-[line:23]-INFO-[日志信息]: ************************starting run test cases************************
+Thu, 25 Jul 2019 16:52:38-test_case.models.RecordLog-base.py-[line:108]-INFO-[日志信息]: inputValue:[<selenium.webdriver.remote.webelement.WebElement (session="fd5d0e34f9ce4151958f23b6a4a665f5", element="0.7624370378510217-1")>] is receiveing value [1234]
+Thu, 25 Jul 2019 16:52:39-test_case.models.RecordLog-base.py-[line:108]-INFO-[日志信息]: inputValue:[<selenium.webdriver.remote.webelement.WebElement (session="fd5d0e34f9ce4151958f23b6a4a665f5", element="0.7624370378510217-2")>] is receiveing value [987777]
+Thu, 25 Jul 2019 16:52:39-test_case.models.RecordLog-login_page.py-[line:31]-INFO-[日志信息]: loginning...
+Thu, 25 Jul 2019 16:52:41-test_case.models.RecordLog-login_page.py-[line:50]-INFO-[日志信息]: login fail
+Thu, 25 Jul 2019 16:52:41-test_case.models.RecordLog-LoginTc.py-[line:59]-INFO-[日志信息]: run completed! please check the test report
+Thu, 25 Jul 2019 16:52:41-test_case.models.RecordLog-myunit.py-[line:31]-INFO-[日志信息]: ************************test case run completed************************
+Thu, 25 Jul 2019 16:52:41-test_case.models.RecordLog-base.py-[line:26]-INFO-[日志信息]: http://supplytest.fandow.com loading successed!
+Thu, 25 Jul 2019 16:52:41-test_case.models.RecordLog-myunit.py-[line:23]-INFO-[日志信息]: ************************starting run test cases************************
+Thu, 25 Jul 2019 16:52:42-test_case.models.RecordLog-base.py-[line:108]-INFO-[日志信息]: inputValue:[<selenium.webdriver.remote.webelement.WebElement (session="fd5d0e34f9ce4151958f23b6a4a665f5", element="0.23129074381609116-1")>] is receiveing value [fd-0001]
+Thu, 25 Jul 2019 16:52:42-test_case.models.RecordLog-base.py-[line:108]-INFO-[日志信息]: inputValue:[<selenium.webdriver.remote.webelement.WebElement (session="fd5d0e34f9ce4151958f23b6a4a665f5", element="0.23129074381609116-2")>] is receiveing value [123456]
+Thu, 25 Jul 2019 16:52:42-test_case.models.RecordLog-login_page.py-[line:31]-INFO-[日志信息]: loginning...
+Thu, 25 Jul 2019 16:52:44-test_case.models.RecordLog-base.py-[line:195]-INFO-[日志信息]: save screenshot failed
+Thu, 25 Jul 2019 16:52:44-test_case.models.RecordLog-LoginTc.py-[line:23]-INFO-[日志信息]: run completed! please check the test report
+Thu, 25 Jul 2019 16:52:44-test_case.models.RecordLog-myunit.py-[line:31]-INFO-[日志信息]: ************************test case run completed************************
+Thu, 25 Jul 2019 16:52:44-test_case.models.RecordLog-base.py-[line:26]-INFO-[日志信息]: http://supplytest.fandow.com loading successed!
+Thu, 25 Jul 2019 16:52:44-test_case.models.RecordLog-myunit.py-[line:23]-INFO-[日志信息]: ************************starting run test cases************************
+Thu, 25 Jul 2019 16:52:45-test_case.models.RecordLog-base.py-[line:108]-INFO-[日志信息]: inputValue:[<selenium.webdriver.remote.webelement.WebElement (session="fd5d0e34f9ce4151958f23b6a4a665f5", element="0.6076102909791941-1")>] is receiveing value [12345]
+Thu, 25 Jul 2019 16:52:45-test_case.models.RecordLog-base.py-[line:108]-INFO-[日志信息]: inputValue:[<selenium.webdriver.remote.webelement.WebElement (session="fd5d0e34f9ce4151958f23b6a4a665f5", element="0.6076102909791941-2")>] is receiveing value [123456]
+Thu, 25 Jul 2019 16:52:45-test_case.models.RecordLog-login_page.py-[line:31]-INFO-[日志信息]: loginning...
+Thu, 25 Jul 2019 16:52:47-test_case.models.RecordLog-login_page.py-[line:50]-INFO-[日志信息]: login fail
+Thu, 25 Jul 2019 16:52:47-test_case.models.RecordLog-LoginTc.py-[line:32]-INFO-[日志信息]: run completed! please check the test report
+Thu, 25 Jul 2019 16:52:47-test_case.models.RecordLog-myunit.py-[line:31]-INFO-[日志信息]: ************************test case run completed************************
+Thu, 25 Jul 2019 16:52:49-test_case.models.RecordLog-myunit.py-[line:35]-INFO-[日志信息]: quit the browser success!
