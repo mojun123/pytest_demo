@@ -23,7 +23,7 @@ Deprecated==1.2.7
 Django==2.2
 django-appconf==1.0.3
 django-autoslug==1.9.6
-django-debug-toolbar==2.2
+django-debug-toolbar==2.2.1
 django-haystack==3.0b1
 django-ipware==2.1.0
 django-ranged-response==0.2.0
